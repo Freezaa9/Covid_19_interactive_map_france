@@ -1,0 +1,14 @@
+gml_id,nouvnom,libnom,code_region,chef_lieux
+"1",ILE-DE-FRANCE,Île-de-France,"11",PARIS
+"2",CENTRE-VAL DE LOIRE,Centre-Val de Loire,"24",ORLEANS
+"3",BOURGOGNE-FRANCHE-COMTE,Bourgogne-Franche-Comté,"27",DIJON
+"4",HAUTS-DE-FRANCE,Hauts-de-France,"32",LILLE
+"5",NORMANDIE,Normandie,"28",ROUEN
+"6",GRAND EST,Grand Est,"44",STRASBOURG
+"7",BRETAGNE,Bretagne,"53",RENNES
+"8",PAYS DE LA LOIRE,Pays de la Loire,"52",NANTES
+"9",OCCITANIE,Occitanie,"76",TOULOUSE
+"10",NOUVELLE-AQUITAINE,Nouvelle-Aquitaine,"75",BORDEAUX
+"11",AUVERGNE-RHONE-ALPES,Auvergne-Rhône-Alpes,"84",LYON
+"12",PROVENCE-ALPES-COTE D'AZUR,Provence-Alpes-Côte d'Azur,"93",MARSEILLE
+"13",CORSE,Corse,"94",AJACCIO

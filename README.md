@@ -14,3 +14,13 @@ go to https://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et
 dowload the latest file by department.
 Copy it in the data directory. 
 In the notebook change the name of the variable "data_covid" with the new file name
+
+# Sources:
+Covid19 french data: https://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/
+France department shape files: https://www.data.gouv.fr/fr/datasets/contours-des-departements-francais-issus-d-openstreetmap/#_
+(used simplify data "Export 2017 simplifié")
+
+
+Bokeh and interactive map:
+https://towardsdatascience.com/walkthrough-mapping-basics-with-bokeh-and-geopandas-in-python-43f40aa5b7e9
+https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0

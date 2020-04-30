@@ -26,3 +26,8 @@ https://towardsdatascience.com/walkthrough-mapping-basics-with-bokeh-and-geopand
 https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0
 
 https://doc.data.gouv.fr/api/intro/
+
+
+# To fix
+Rhone-Alpe and Lyon missing data
+Department name encodage problem

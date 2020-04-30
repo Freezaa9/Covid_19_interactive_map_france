@@ -9,16 +9,11 @@ Generate your api key
 create a config.py file in the Covid_19_interactive_map_france folder
 copy and paste your api key in the congig file this way:
 key = COPY_YOUR_API_KEY_HERE
-
-Use your python console and go to the project directory
+and now use your python console and go to the project directory
 then use:
 bokeh serve --show Covid_19_interactive_map_france.ipynb in your console
 
-#:
-go to https://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/
-dowload the latest file by department.
-Copy it in the data directory. 
-In the notebook change the name of the variable "data_covid" with the new file name
+
 
 # Sources:
 Covid19 french data: https://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/
